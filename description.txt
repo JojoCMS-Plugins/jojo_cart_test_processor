@@ -1,0 +1,1 @@
+Test your jojo_cart integration without involving a 3rd party payment gateway.

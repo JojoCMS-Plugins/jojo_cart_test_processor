@@ -1,0 +1,1 @@
+The Test Processor plugin is a way of testing your payment processing features without involving a 3rd party payment processor. This plugin requires the jojo_cart plugin. Use this plugin for performing test success / decline transactions easily.
