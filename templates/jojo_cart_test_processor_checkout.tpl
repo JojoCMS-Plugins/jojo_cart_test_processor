@@ -6,8 +6,9 @@
     <h3>Payment outcome</h3>
     <label><input type="radio" name="outcome" value="accepted" checked="checked" /> Accepted</label>
     <label><input type="radio" name="outcome" value="declined" /> Declined</label>
-  </div>
-  <div style="text-align: center">
+  <div style="text-align: center;clear:both">
     <input type="submit" name="submit" value="Process" />
   </div>
+  </div>
+  
 </form>
